@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d768eec-6280-40c8-8a4a-fd48a5f1e4f8" name="Changes" comment="appt">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loki" beforeDir="false" afterPath="$PROJECT_DIR$/loki" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loki-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/loki-frontend" afterDir="false" />
@@ -41,6 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pinta/IdeaProjects/Loki - Copy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,7 +100,7 @@
       <workItem from="1689039165222" duration="4357000" />
       <workItem from="1689094885794" duration="6840000" />
       <workItem from="1689107143839" duration="1680000" />
-      <workItem from="1689108908298" duration="599000" />
+      <workItem from="1689108908298" duration="1650000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1688692939903</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689094302619</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="appt">
+      <created>1689109615956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689109615956</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
