@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d768eec-6280-40c8-8a4a-fd48a5f1e4f8" name="Changes" comment="appt">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loki" beforeDir="false" afterPath="$PROJECT_DIR$/loki" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loki-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/loki-frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loki-frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loki/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
@@ -54,19 +54,6 @@
   }
 }]]></component>
   <component name="RunManager" selected="npm.dev">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Loki" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Loki" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="dev" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/loki/package.json" />
       <command value="run" />
@@ -94,6 +81,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\pinta\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8d768eec-6280-40c8-8a4a-fd48a5f1e4f8" name="Changes" comment="" />
@@ -108,7 +98,9 @@
       <workItem from="1685645444330" duration="18000" />
       <workItem from="1688692517601" duration="4814000" />
       <workItem from="1689039165222" duration="4357000" />
-      <workItem from="1689094885794" duration="5585000" />
+      <workItem from="1689094885794" duration="6840000" />
+      <workItem from="1689107143839" duration="1680000" />
+      <workItem from="1689108908298" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1688692939903</created>
@@ -163,6 +155,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/loki" />
+      <path value="$PROJECT_DIR$/loki-frontend" />
+    </ignored-roots>
     <MESSAGE value="init" />
     <MESSAGE value="appt" />
     <option name="LAST_COMMIT_MESSAGE" value="appt" />
