@@ -24,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/loki-frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -108,7 +108,7 @@
       <workItem from="1685645444330" duration="18000" />
       <workItem from="1688692517601" duration="4814000" />
       <workItem from="1689039165222" duration="4357000" />
-      <workItem from="1689094885794" duration="4688000" />
+      <workItem from="1689094885794" duration="5043000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1688692939903</created>
