@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d768eec-6280-40c8-8a4a-fd48a5f1e4f8" name="Changes" comment="appt">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LokiApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Loki.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loki" beforeDir="false" afterPath="$PROJECT_DIR$/loki" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loki-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/loki-frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loki-frontend/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/loki/.gitignore" beforeDir="false" />
     </list>
@@ -108,7 +108,7 @@
       <workItem from="1685645444330" duration="18000" />
       <workItem from="1688692517601" duration="4814000" />
       <workItem from="1689039165222" duration="4357000" />
-      <workItem from="1689094885794" duration="5043000" />
+      <workItem from="1689094885794" duration="5585000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1688692939903</created>
