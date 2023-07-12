@@ -1,0 +1,57 @@
+<style>
+  .button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button1 {width: 7%;
+    background-color: #FF00FF;}
+  .button2 {width: 50%;}
+  .button3 {width: 100%;}
+
+  .transaction {
+    border: 1px solid red;}
+
+
+</style>
+<table>
+  <tr>
+<div class="row">
+  <div class="transaction" *ngFor="let transaction of transactions$ | async">
+    <h3 class="card-title">DESCRIPTION: {{transaction.Description}}</h3>
+    <div class="card-body">
+      <p class="card-text">AMOUNT: {{transaction.Amount}}</p>
+      <p class="card-text">TAX CATEGORY: {{transaction.taxCategory || "Client - NONE"}}</p>
+      <p class="card-text">CLIENT: {{transaction.client || "NONE"}}</p>
+      <table>
+        <tr>
+          <button class="button button1" (click)="updateTransactionCategory(transaction._id)">Utility</button>
+          <button class="button button1" (click)="markAsSupplies(transaction._id)">Supplies</button>
+          <button class="button button1" (click)="markAsEquipment(transaction._id)">Equipment</button>
+          <button class="button button1" (click)="markAsInsurance(transaction._id)">Insurance</button>
+          <button class="button button1" (click)="markAsMaintenance(transaction._id)">Maintenance</button>
+          <button class="button button1" (click)="markAsCommunication(transaction._id)">Communication</button>
+          <button class="button button1" (click)="markAsLegalServices(transaction._id)">Legal Services</button>
+          <button class="button button1" (click)="markAsMealsEntertainment(transaction._id)">Meals Entertainment</button>
+          <button class="button button1" (click)="markAsTransportation(transaction._id)">Transportation</button>
+          <button class="button button1" (click)="markAsRent(transaction._id)">Rent</button>
+          <button class="button button1" (click)="markAsDeposit(transaction._id)">Deposits</button>
+        </tr>
+      </table>
+
+
+      <div *ngIf="msgTrue">
+        Transaction Categorized Successfully!
+    </div>
+  </div>
+</div>
+</div>
+  </tr>
+  </table>
