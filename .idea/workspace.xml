@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pinta/IdeaProjects/Loki - Copy&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pinta/IdeaProjects/Loki&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -50,7 +50,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\pinta\\IdeaProjects\\Loki\\loki\\node_modules\\typescript\\lib&quot;
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\pinta\\IdeaProjects\\Loki\\Loki front-end\\loki-frontend\\node_modules\\typescript\\lib&quot;
   }
 }</component>
   <component name="RunManager" selected="npm.dev">
@@ -101,6 +101,16 @@
       <workItem from="1689094885794" duration="6840000" />
       <workItem from="1689107143839" duration="1680000" />
       <workItem from="1689108908298" duration="1650000" />
+      <workItem from="1689111494741" duration="1891000" />
+      <workItem from="1693400484868" duration="2594000" />
+      <workItem from="1693425851629" duration="1759000" />
+      <workItem from="1695103094955" duration="5000" />
+      <workItem from="1718592532918" duration="2000" />
+      <workItem from="1719888456258" duration="1054000" />
+      <workItem from="1727578604330" duration="3000" />
+      <workItem from="1729218188824" duration="17000" />
+      <workItem from="1731616416321" duration="6000" />
+      <workItem from="1733943151698" duration="180000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1688692939903</created>
@@ -144,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689109615956</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="appt">
+      <created>1689111573519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689111573519</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
